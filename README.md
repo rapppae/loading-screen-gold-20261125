@@ -6,7 +6,7 @@
 
 Bounty: https://make.fun/bounty/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270
 
-> Tip: if the build takes longer than your coffee, it is not slow. It is giving you time to reconsider the commit you just pushed.
+> Tip: if the build outlasts your coffee, it is not slow. It is giving you time to reconsider the commit you just pushed.
 
 ## Run
 
